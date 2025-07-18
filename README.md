@@ -52,6 +52,7 @@ Class distribution: Reasonably balanced
 Data types: int64 and float64
 
 ⚙️ ML Pipeline
+
 1. Data Preparation
    
 Split the dataset into features (X) and target (y).
@@ -96,9 +97,11 @@ Color-coded nodes (confidence)
 This makes it interpretable, ideal for medical professionals who prefer explainable models
 
 📊 Feature Importance
+
 The relative importance of features in making split decisions was visualized using a bar chart.
 
 Top Features:
+
 Glucose
 
 BMI
